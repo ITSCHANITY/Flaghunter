@@ -1,0 +1,4 @@
+# flaghunter.py uses only Python's standard library — no pip packages required.
+#
+# It is intentionally dependency-free so it runs on a minimal CTF box with
+# nothing but Python 3 installed.
